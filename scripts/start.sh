@@ -1,4 +1,5 @@
 #!/usr/bin/env bash
+
 # Derived from work Copyright 2017 The Kubernetes Authors.
 # See https://github.com/kow3ns/kubernetes-zookeeper/blob/master/docker/scripts/start-zookeeper for more details
 #
